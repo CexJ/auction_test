@@ -3,9 +3,9 @@ A Java RESTapi for auctions
 
 You have to develop a web application that manages an auction house.
 # Step 1 - Auction house
-> Create an auction house with a given name.
-> List all auction houses created.
-> Delete a specific house.
+> - Create an auction house with a given name.
+> - List all auction houses created.
+> - Delete a specific house.
 # Step 2 - Auction
 For a given Auction house
 > create an auction with some parameters: name, description, starting time, end time, start
